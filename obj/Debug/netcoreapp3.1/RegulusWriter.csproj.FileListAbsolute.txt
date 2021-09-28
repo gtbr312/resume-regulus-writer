@@ -1,0 +1,13 @@
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\bin\Debug\netcoreapp3.1\RegulusWriter.exe
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\bin\Debug\netcoreapp3.1\RegulusWriter.deps.json
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\bin\Debug\netcoreapp3.1\RegulusWriter.runtimeconfig.json
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\bin\Debug\netcoreapp3.1\RegulusWriter.runtimeconfig.dev.json
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\bin\Debug\netcoreapp3.1\RegulusWriter.dll
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\bin\Debug\netcoreapp3.1\RegulusWriter.pdb
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\obj\Debug\netcoreapp3.1\RegulusWriter.csprojAssemblyReference.cache
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\obj\Debug\netcoreapp3.1\RegulusWriter.AssemblyInfoInputs.cache
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\obj\Debug\netcoreapp3.1\RegulusWriter.AssemblyInfo.cs
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\obj\Debug\netcoreapp3.1\RegulusWriter.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\obj\Debug\netcoreapp3.1\RegulusWriter.dll
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\obj\Debug\netcoreapp3.1\RegulusWriter.pdb
+C:\Users\Matthew\Desktop\RegulusWriter\RegulusWriter\obj\Debug\netcoreapp3.1\RegulusWriter.genruntimeconfig.cache
